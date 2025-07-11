@@ -1,1 +1,1 @@
-co-component.netlify.app
+https://co-component.netlify.app/
